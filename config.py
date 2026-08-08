@@ -1,6 +1,6 @@
 # config.py
 
-API_KEY = "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"
+API_KEY = ""
 
 BASE_URL = "https://api.groq.com/openai/v1"
 
