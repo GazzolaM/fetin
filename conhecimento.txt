@@ -1,0 +1,30 @@
+# Base de Conhecimento: Sinhá Moreira e o Vale da Eletrônica
+
+## 1. Dados Biográficos e Família
+* **Nome Completo:** Luzia Rennó Moreira (conhecida como Sinhá Moreira, apelido comum na época).
+* **Nascimento:** 17 de setembro de 1907, em Santa Rita do Sapucaí (MG).
+* **Falecimento:** 9 de março de 1963 (55 anos), em decorrência de neoplasia mamária.
+* **Família:** Filha do Coronel Francisco Moreira da Costa (homem de grande influência, ligado à cafeicultura, finanças e política) e Dona Mindoca Rennó Moreira. Era sobrinha de Delfim Moreira (Presidente da República entre 1918 e 1919).
+* **Casamento:** Em 1929 (aos 22 anos), casou-se com o diplomata Antônio Moreira de Abreu, que era seu primo (prática comum na época para manter o poder na família). Separou-se judicialmente e retornou definitivamente para Minas Gerais em 1942.
+* **Visão de Mundo (Viagens):** Acompanhando o marido diplomata, viajou para países como Bélgica (Bruxelas), Japão, Estados Unidos, México, Portugal e China. Viu o processo de industrialização no exterior, percebeu como o Brasil era precário na época e decidiu aplicar o que viu em sua cidade natal. A maioria dos monumentos históricos atuais de Santa Rita do Sapucaí é da época dela.
+* **Perfil Pessoal:** Mulher de personalidade forte, determinada e enérgica (exigente com funcionários). Tinha grande poder de articulação política, recebendo figuras como Juscelino Kubitschek. Uma curiosidade de sua vida pessoal é que era apaixonada por gatos.
+
+## 2. Ações Sociais, Urbanismo e Combate ao Preconceito
+* **Habitação (Bairro Vista Alegre):** Fundou a construtora Companhia Vista Alegre. Foi pioneira ao criar um sistema de parcelamento para que pessoas pobres comprassem casas, pois não existia financiamento na época. Ela construiu a maioria das casas do bairro Vista Alegre (próximo ao cemitério).
+* **Inclusão e Antirracismo (Clube Escravinas):** Em uma época de forte segregação racial, onde pessoas negras e pobres não frequentavam a praça ou o clube da elite local, Sinhá e outras pessoas influentes criaram a associação "Escravinas", um espaço inclusivo onde todos eram aceitos.
+* **O Banquete dos Pobres e o Boicote (1957):** Sinhá organizou um banquete na praça pública para oferecer comida gratuitamente aos mais pobres, promovendo a confraternização. A elite local boicotou e não participou, em uma forte reação contrária. Sem se abalar, Sinhá usou o dinheiro dessa festa para comprar uma escola desativada (um antigo jardim de infância da década de 1910 cujo terreno era usado como ferro-velho), que mais tarde seria o prédio central de tijolinhos da sua escola.
+* **Educação Filantrópica:** Distribuía bolsas de estudo (enviando jovens para SP, RJ e BH). O sistema era rotativo: após formados e empregados, os alunos ajudavam a financiar outros jovens. O Museu local guarda peças como o chapéu de um instrutor de caça da Aeronáutica (Major-Brigadeiro) que foi patrocinado por ela desde criança até atingir o mais alto cargo.
+* **Influência e Contatos:** Há registros fotográficos dela no clube com o governador do Rio de Janeiro (então Estado da Guanabara) e o governador de Minas Gerais (que havia começado a carreira como empregado do pai de Sinhá e depois se tornou dono do Banco Nacional).
+
+## 3. A Fundação da Escola Técnica e o Legado Tecnológico
+* **A Ideia Inicial (Petrobras e ITA):** Sinhá queria deixar uma escola para a cidade, mas não sabia a área. Como a Petrobras estava em alta, consultou engenheiros, que sugeriram a área de tecnologia, pois não havia quem desse assistência técnica aos equipamentos no Brasil. Ela também teve contato com professores do ITA (Instituto Tecnológico de Aeronáutica).
+* **A Influência de Einstein:** A decisão final pela eletrônica ocorreu após o médico santa-ritense Walter Telles retornar dos EUA relatando uma conferência de Albert Einstein sobre a importância da eletrônica para o futuro.
+* **Apoio Presidencial:** Sinhá entrou em contato com cientistas de todo o Brasil e pediu pessoalmente ao Presidente da República que criasse uma lei permitindo o ensino técnico de eletrônica.
+* **A Criação da ETE FMC (1959):** Fundou a Escola Técnica de Eletrônica Francisco Moreira da Costa. Foi a 1ª escola de eletrônica de nível médio da América Latina e a 7ª do mundo. Começou em um prédio provisório enquanto o campus oficial (de 130 mil metros quadrados) era construído. A direção foi entregue aos jesuítas. 
+* **O Inatel (1965):** Sinhá Moreira NÃO fundou o Inatel. O Instituto Nacional de Telecomunicações foi criado em março de 1965 pelo professor José Nogueira Leite, com apoio da Sociedade dos Amigos de Santa Rita do Sapucaí (presidida por Joaquim Inácio, o "Quina"). No início, o Inatel chegou a usar instalações da ETE, provando que Sinhá preparou o terreno educacional para que o Inatel existisse.
+
+## 4. O "Vale da Eletrônica" e Reconhecimentos
+* **Transição Econômica:** A visão de Sinhá mudou a cidade, que possuía economia predominantemente agropecuária, transformando-a em um polo de indústria eletrônica e inovação. Em 1963, ela dizia querer que a cidade fosse reconhecida por sua cultura e educação.
+* **O Ciclo do Ecossistema:** As escolas formam profissionais -> os profissionais criam empresas -> as empresas fortalecem a economia local -> a economia demanda mais ensino.
+* **A Origem do Termo:** O apelido "Vale da Eletrônica" não é da época de Sinhá. Surgiu na década de 1980, criado pelo então prefeito Paulo Frederico Toledo (conhecido como Paulinho Dentista).
+* **Homenagens Recentes:** Além de nomear ruas e instituições, em 2011 o SINDVEL criou a "Comenda Sinhá Moreira", destinada a reconhecer pessoas ligadas ao desenvolvimento tecnológico e empreendedor.
